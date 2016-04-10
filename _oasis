@@ -1,0 +1,13 @@
+OASISFormat: 0.4
+Name:        tapl
+Version:     0.1
+Synopsis:    Tapl Examples
+Authors:     Tim McGilchrist
+License:     MIT
+Plugins:     META (0.4), StdFiles (0.4), DevFiles (0.4)
+
+Executable main
+  Path:       chapter_10
+  BuildTools: ocamlbuild
+  MainIs:     main.ml
+  

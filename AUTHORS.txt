@@ -1,0 +1,8 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: adc0d4daf41a6cca15b22b6846f34c25) *)
+
+Authors of tapl:
+
+* Tim McGilchrist
+
+(* OASIS_STOP *)
